@@ -1,23 +1,17 @@
 # FirebasePython
 
-\* Dev Try \*
-
-![Image](noimage.png)
-
 ## Description
 This *firebasepython* is made for the purpose of implementing **firebase in python**
 
 [Website](http://chaalpritam.com)
 
 ### Environment
-Runs using __ python3 __ in a _ virtualenv _
+Runs using **python3** in a *virtualenv*
 
 ### Involvement
 > I have done this **project** :+1: to understand firebase in python.
 > Which has the functionality to do *crud* :tada:
 
-### Project Intiator
-@chaalpritam
 
 #### Project Structure
 * pyenv
